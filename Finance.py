@@ -17,7 +17,7 @@ import yfinance as yf
 from datetime import datetime
 
 st.set_page_config(page_title="Finance", page_icon="💵")
-st.title("Stock Price Analysis")
+st.title("Stock Price Analysis 💵")
 
 # Introduction
 st.write("Welcome to the Stock Price Analysis App! Select a ticker to see its historical data.")
